@@ -6,7 +6,7 @@ Compara dos arquitecturas de segmentación semántica —una **CNN encoder-decod
 
 ## Contenido
 
-- `CNN_UNET_Monuseg.ipynb` — Notebook principal con todo el flujo.
+- `CNN_SEMINARIO.ipynb` — Notebook principal con todo el flujo.
 
 ## Flujo del notebook
 
