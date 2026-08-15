@@ -27,7 +27,7 @@ Compara dos arquitecturas de segmentación semántica —una **CNN encoder-decod
 
 El notebook necesita tus credenciales de la API de Kaggle:
 
-**Archivo `kaggle.json`** (flujo clásico): descárgalo desde tu cuenta en `Account → Settings → API → Create New Token` y súbelo cuando la celda lo solicite.
+**Archivo `kaggle.json`** se descarga en `Account → Settings → API → Create New Token` y se sube cuando la celda lo solicite.
 
 ## Ejecución
 
