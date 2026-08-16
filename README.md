@@ -4,6 +4,13 @@ Proyecto del seminario de **Deep Learning para Bioimágenes (dlba-pucp)**.
 
 Compara dos arquitecturas de segmentación semántica —una **CNN encoder-decoder simple** y una **U-Net con skip connections**— sobre el dataset público **MoNuSeg 2018** (imágenes de histopatología con máscaras de núcleos celulares), y mide el efecto de aplicar **Data Augmentation** (rotaciones aleatorias) sobre el desempeño de ambos modelos.
 
+Integrantes:
+- Noelia Fernandez Rebaza (20200909) - 100%
+- Piero Pastor Pacheco (20210836) - 100%
+- Anngel Blas Montañez (20222898) - 100$
+- Renato Martinez Abanto (20213401) - 0%
+- Sheyla Caballero Heredia (20203816) - 0%
+
 ## Contenido
 
 - `CNN_SEMINARIO.ipynb` — Notebook principal con todo el flujo.
